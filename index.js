@@ -1,12 +1,14 @@
-//
+//harus menghasilkan nilai ganjil dan genap
 function ganjilGenap(x) {
 
 }
 
-function piramida(X) {
+//harus menghasilkan pattern Piramida allign left
+function piramida(x) {
 
 }
 
+//harus menampilkan Fizz & Buzz & FizzBuzz & angka
 function fizzBuzz(x) {
 
 }
